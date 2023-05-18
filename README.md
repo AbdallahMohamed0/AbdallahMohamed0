@@ -2,7 +2,7 @@
   ---
   - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a junior developer from Egypt.
   
-  - 😃 I’m currently learning everything.
+  - 😃 I’m currently learning React.js.
   
   - 👌 I’m looking to collaborate with other developers.
 
@@ -17,9 +17,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbdallahMohamed06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahmohamed0)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdallah_005) 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdallahmohamed0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdallahmohamed0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmohamed0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
